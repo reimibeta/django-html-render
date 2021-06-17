@@ -9,7 +9,7 @@ import os
 import setuptools
 
 setuptools.setup(
-    name='html_render_utils',
-    version='1.0.1',
+    name='html_render',
+    version='1.0.2',
     packages=setuptools.find_packages()
 )

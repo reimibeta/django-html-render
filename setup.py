@@ -9,7 +9,7 @@ import os
 import setuptools
 
 setuptools.setup(
-    name='html_render',
-    version='1.0.2',
+    name='django_html_render',
+    version='1.0.3',
     packages=setuptools.find_packages()
 )
